@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Hotel Outside.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Hotel Inside.unity
+    guid: bbbaa4b119f907a43b711fa69c0c33cd
+  - enabled: 1
+    path: Assets/Scenes/Hotel Lobby.unity
+    guid: e718a43d891057a42936b16319f65899
+  - enabled: 1
+    path: Assets/Scenes/Hotel Room.unity
+    guid: df4b3fcd94ae07e419c281c541846938
+  m_configObjects: {}
